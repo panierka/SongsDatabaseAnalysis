@@ -37,7 +37,6 @@ classical
 doom_metal
 gothic_metal
 post_hardcore
-indie
 rap
 post_punk
 hard_rock
@@ -69,7 +68,6 @@ funk
 synthpop
 psychedelic_rock
 noise
-alternative
 heavy_metal
 progressive_rock
 pop_rock
